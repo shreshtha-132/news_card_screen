@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310861269869",
+    "project_id": "news-card-screen",
+    "storage_bucket": "news-card-screen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310861269869:android:0ddb17299f862afd342864",
+        "android_client_info": {
+          "package_name": "com.example.news_card_screen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2xPvU21J5MXcbLiwk-oL0Vu13QDtwTNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
